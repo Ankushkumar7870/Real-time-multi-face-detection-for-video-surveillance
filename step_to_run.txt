@@ -1,0 +1,17 @@
+Step 1: For giving images to model we will run
+
+        python register_faces.py
+        (Here yo need to give image of the person for which you want to make the model)
+
+Step 2: For giving new 
+
+        python train_model.py
+    
+Step 3:For opening the site for attendance we use
+
+        python app.py
+        
+
+
+        ctrl+hift+p to change the interpreter
+        
